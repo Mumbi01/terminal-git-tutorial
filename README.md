@@ -22,7 +22,7 @@ I git används grenar (annars kallad Git branches) för att separera arbetsflöd
 
 README
 This is my first GitHub repository and i'm training the use of Git and Github
-This is my first Github repository and i'm training the use of (**Git**) and (**GitHub**)
+This is my first Github repository and i'm training the use of **Git** and **GitHub**
 I am also learning:
 * HTML
 * CSS 
