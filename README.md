@@ -18,10 +18,7 @@ Genom att förstå dessa tre steg kan du hantera filernas status i ditt Git-repo
 I git används grenar (annars kallad Git branches) för att separera arbetsflöden och parallela utvecklingslinjer inom ett projekt. En gren representerar en oberoende linje av utveckling som kan innehålla ändringar, funktioner eller experiment utan att påverka huvudgrenen eller andra grenar i projektet. Genom att använda grenar har du möjlighet till att kunna: separera utveckling, utveckla parallellt, versionhantering och återgå till tidigare tillstånd.
 
 
-Step 20 (nothing happened)
-Step 22 (It aint working)
 
-Du är på steg 24 nu, fråga om hjälp!!!!! med tidigare steg
 
 README
 This is my first GitHub repository and i'm training the use of Git and Github
